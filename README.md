@@ -6,4 +6,4 @@ To execute the file
 
 open command prompt and run following command
 
-java -jar A20399008_SSA_Project.jar
+java -jar MDA_EFSM_GasPump.jar
