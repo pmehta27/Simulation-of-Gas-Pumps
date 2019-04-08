@@ -6,8 +6,8 @@ This project demonstartes implementation of following design patterns:
 * State Pattern
 * Abstract Factory Pattern
 
-To execute the file
+## To execute the file
 
 open command prompt and run following command
 
-java -jar MDA_EFSM_GasPump.jar
+* java -jar MDA_EFSM_GasPump.jar
